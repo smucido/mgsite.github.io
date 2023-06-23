@@ -2,7 +2,7 @@ body {
     background-image: url('foto.jpeg');
     background-size: cover;
     background-attachment: fixed;
-}
+} 
 
 .container {
     display: flex;
